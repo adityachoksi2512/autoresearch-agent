@@ -4,7 +4,7 @@ An autonomous multi-step research agent powered by Claude and DuckDuckGo. Give i
 
 ## Demo
 
-Watch the demo video: https://drive.google.com/file/d/1x8JQYDNOs4RMiKj4yk5ax6OJd0cmjARo/view?usp=sharing
+[Watch the demo video](https://drive.google.com/file/d/1x8JQYDNOs4RMiKj4yk5ax6OJd0cmjARo/view?usp=sharing)
 
 ## How it works
 
